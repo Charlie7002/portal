@@ -1,0 +1,26 @@
+# Fichiers d'éditeur
+.vscode/
+
+
+# Fichiers de build
+node_modules/
+dist/
+build/
+
+# Fichiers de dépendances
+package-lock.json
+yarn.lock
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+.tmp/
+.temp/
+
+# Fichiers de configuration
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
